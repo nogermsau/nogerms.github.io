@@ -4,7 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
  No Germs providing leading solutions for your condensation, rising damp, mould and sub floor moisture problems. All solutions are safe and non-toxic.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
-facebook_url: https://www.facebook.com/No-Germs-270410003339796/
 instagram_url: https://www.instagram.com/nogerms1
 phonenumber: 0418 408040
 
