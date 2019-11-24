@@ -1,0 +1,19 @@
+#Please use the main menu items under the "text"
+
+- text: Home
+  url: /
+- text: Our Services
+  url: /services
+  submenu:
+  - text: Mould Inspection
+    url: /services/mould-inspection
+  - text: Mould Removal
+    url: /services/mould-removal
+- text: Reviews
+  url: /reviews
+- text: Articles
+  url: /articles
+- text: Contact
+  url: /contact
+- text: About Us
+  url: /about
