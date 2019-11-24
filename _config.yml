@@ -39,15 +39,12 @@ collections:
 paginate: 5
 paginate_path: "/articles/:num/"
 
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_permalink_style: pretty
-
-jekyll-archives:
-  enabled: all
-  layout: category
-  permalinks:
-    category: '/category/:name/'
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 feed:
   collections:
