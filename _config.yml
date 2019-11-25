@@ -22,9 +22,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-redirect-from
 
 cover_image: "/assets/img/bg/page-title.jpg"
 
+whitelist:
+  - jekyll-redirect-from
 
 #collections
 collections:
