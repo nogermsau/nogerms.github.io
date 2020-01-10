@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Mould Inspections
+title: Mould Inspections - No Germs
+heading: Mould Inspections
 icon: /assets/img/icons/algolia-brands.svg
 image: /assets/img/services/01.jpg
 class: one

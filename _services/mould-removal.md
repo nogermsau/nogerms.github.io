@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Mould Removal
+title: Mould Removal - No Germs
+heading: Mould Removal
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
 class: two
