@@ -1410,11 +1410,12 @@ label {
 	background-color: none;
 	border-radius: 0;
 }
-.breadcrumb-title h2 {
+.breadcrumb-title h1 {
 	margin: 0;
 	text-transform: uppercase;
 	font-weight: 600;
 	color: #fff;
+  font-size: 35px;
 }
 .breadcrumb li {
 	display: inline-block;
