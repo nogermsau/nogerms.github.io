@@ -132,7 +132,6 @@ p {
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 26px;
-	color: #7e7e7e;
 	margin-bottom: 15px;
 }
 hr {
@@ -288,6 +287,7 @@ label {
 	display: inline-block;
 	position: relative;
 	margin-left: 30px;
+  max-width: 90px;
 }
 .main-menu ul li a {
 	color: #020d26;
@@ -334,6 +334,7 @@ label {
 	display: block;
 	margin: 0;
 	border-bottom: 1px solid rgba(0,0,0,0.08);
+  max-width: none;
 }
 .main-menu ul li .sub-menu li:last-child{
 	border: none;
@@ -770,13 +771,13 @@ label {
   margin-left: 10px;
   margin-right: 10px;
 }
-.features-wrap h4 {
+.features-wrap h4, .commercial h4 {
 	font-weight: 600;
 	color: #1e2331;
 	margin-bottom: 17px;
 	font-size: 18px;
 }
-.features-wrap a {
+.features-wrap a, .commercial a {
 	font-size: 14px;
 	font-weight: 600;
 	color: #84B145;
@@ -1982,4 +1983,14 @@ section.features_teasers_wrapper .feature_teaser h3 {
 }
 .about-content h5 {
   color: #84B145;
+}
+.commercial ul {
+  margin: 20px;
+}
+.commercial li {
+  list-style: disc;
+}
+.zoono li {
+  list-style: disc;
+  margin-left: 30px;
 }

@@ -2,13 +2,24 @@
 
 - text: Home
   url: /
-- text: Our Services
+- text: Residential Services
   url: /services
   submenu:
   - text: Mould Inspection
     url: /services/mould-inspection
   - text: Mould Removal
     url: /services/mould-removal
+- text: Commercial Services
+  url: /commercial
+  submenu:
+  - text: Bacteria & Microbial Elimination
+    url: /commercial/bacteria-microbial-elimination
+  - text: Food Safety Assessment
+    url: /commercial/food-safety
+  - text: Daycare & Early Learning Centres
+    url: /commercial/daycare-early-learning-centres
+  - text: Food Manufacturing & Processing
+    url: /commercial/food-manufacturing
 - text: Reviews
   url: /reviews
 - text: Articles
