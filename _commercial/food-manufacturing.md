@@ -13,7 +13,8 @@ description: A mould inspection is where we thoroughly investigate your home for
       <div class="col-md-12">
           <div class="service-details mb-40">
               <h3>Building an advanced, safe & effective layer of protection for the food industry</h3>
-              <p>Our founder has spent over 30 years in the food industry and as a result we have vast experience in the management and control of biological, chemical, and physical hazards from raw material production, procurement, and handling, to manufacturing, distribution and consumption of the finished product. We are experts in helping you identify areas of potential hazard and at treating the problems before they arise.</p>
+              <p>Our founder has spent over 30 years in the food industry and as a result we have vast experience in the management and control of biological, chemical, and physical hazards from raw material production, procurement, and handling, to manufacturing, distribution and consumption of the finished product. We are experts in helping you identify areas of potential hazard and at treating the problems before they arise.<br><br>
+              Our clients have described us as an insurance policy or firewall of protection against bacterial outbreaks namely salmonella and listeria.</p>
           </div>
       </div>
   </div>
@@ -26,15 +27,18 @@ description: A mould inspection is where we thoroughly investigate your home for
       <div class="col-xl-6 col-lg-12">
           <div class="service-details mb-40">
               <h3>We're your Partner in Protection and remediation</h3>
-              <p>Our clients have described us as an insurance policy or firewall of protection against bacterial outbreaks namely salmonella and listeria. No Germs is Sydney’s leading applicator of gaseous and liquid chlorine dioxide to a wide range of food manufacturing facilities, meaning we can clean the areas of your business that are most likely potentially hazardous. The benefits of bacterial management and control are obvious. Logo or brand protection and the minimisation of product recalls are a primary concern. Add to that litigation and the extreme financial burden associated with any of these issues and the damage can be irreparable.</p>
+              <p>No Germs is Sydney’s leading applicator of gaseous and liquid chlorine dioxide to a wide range of food manufacturing facilities, meaning we can clean the areas of your business that are most likely potentially hazardous. <br><br>
+              The benefits of bacterial management and control are obvious. Logo or brand protection and the minimisation of product recalls are a primary concern. Add to that litigation and the extreme financial burden associated with any of these issues and the damage can be irreparable.</p>
           </div>
       </div>
   </div>
   <div class="service-details mb-30">
       <h3>The No Germs Difference</h3>
-      <p>We exclusively use chlorine dioxide in the elimination of all forms of harmful bacteria in the food industry. We know your micro switches and electric motors can't get wet and we know your ATP reading needs to be 80 or below. We work outside your production hours to eliminate disruption.</p>
-      <br>
-<br>Zoono was recently approved as the only anti-microbial product used in commercial aircraft to minimise the likelihood of cross-contamination to the travelling public.</p>
+      <p>We exclusively use chlorine dioxide in the elimination of all forms of harmful bacteria in the food industry. We know your micro switches and electric motors can't get wet and we know your ATP reading needs to be 80 or below. We work outside your production hours to eliminate disruption.
+      <br><br>
+      Over 90% of all commercial food sanitizers are classified as ‘poison’ kills, compared to No Germs products that are deemed ‘physical kills’ which simply means that there can be NO microbial resistance to our products, unlike the ‘poison kills’.  Our flagship sanitizer has a surfactant content, therefore continues to act as an ongoing sanitizer.
+      <br><br>Find out more about Zoono in the video below:
+      </p>
   </div>
   <div class="row">
     <div class="col-md-12 text-center">
