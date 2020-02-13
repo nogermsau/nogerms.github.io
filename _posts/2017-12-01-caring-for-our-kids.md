@@ -3,7 +3,7 @@ layout: post
 title: "Caring for our kids"
 subtitle: "How we work to treat & prevent bacterial outbreaks in early learning centres"
 date: 2017-12-01 20:37:13 +0600
-tags: mould earlylearningcentres childcare
+tags: mould earlylearningcentres childcare zoono
 categories: [earlylearningcentres, mould]
 author: Peter Ross
 post_image: "/assets/img/blog/childcare.jpg"
