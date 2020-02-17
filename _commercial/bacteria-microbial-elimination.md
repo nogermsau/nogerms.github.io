@@ -15,7 +15,7 @@ description: A mould inspection is where we thoroughly investigate your home for
               <h3>Proven best-in-class products delivering value to your business</h3>
               <p>We have over 30 years' experience in the management and control of biological, chemical, and physical hazards. No Germs has continued to explore and utilise the best-in-class and most effective products available. We continue to refine our methods as they are constantly tested in a wide variety of Sydney's challenging business environments.
               <br><br>
-              The products that No Germs uses work by physically killing the pathogen. This means mechanical disruption rather than chemical poisoning which means the product is safe and the outcomes are better and longer lasting result. Pathogens cannot build up a tolerance to the products which mean that repeat uses continue to be just as effective.
+              The products that No Germs use work by physically killing the pathogen. This means mechanical disruption rather than chemical poisoning and means the product is safe and the outcomes are better and provide longer lasting results. Pathogens cannot build up a tolerance to the products which mean that repeat uses continue to be just as effective.
               <br><br>
               A No Germs program can provide significant benefits to your business. This includes:
               <ul id="bacteria">

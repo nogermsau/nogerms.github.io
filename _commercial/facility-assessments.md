@@ -12,8 +12,10 @@ description: A mould inspection is where we thoroughly investigate your home for
   <div class="row">
       <div class="col-md-12">
           <div class="service-details mb-40">
-              <h3>Heading 1</h3>
-              <p>More text</p>
+              <h3>Helping you manage risk</h3>
+              <p>As leaders in our field, No Germs is your trusted partner in helping you identify, treat and manage risk in your organisation. We have extensive experience operating in a variety of challenging business environments and have inspected and treated hundreds of facilities across Greater Sydney. We have a suite of testing and auditing tools that we can deploy to thoroughly and accurately investigate you facility.<br><br>
+By identifying areas of risk within your organisation we can design and implement solutions that specifically suit your business.
+</p>
           </div>
       </div>
   </div>
@@ -24,14 +26,18 @@ description: A mould inspection is where we thoroughly investigate your home for
           </div>
       </div>
       <div class="col-xl-6 col-lg-12">
-          <div class="service-details mb-40">
-              <h3>Heading 2</h3>
-              <p>More text</p>
+          <div class="service-details commercial mb-40">
+              <h3>Comprehensive Written Report</h3>
+              <p>In conducting a comprehensive facility assessment, No Germs will:
+              <ul>
+                <li>Conduct a thorough investigation of your facility</li>
+                <li>Assess risk of microbial exposure in your operating facilities and on your employees and customers</li>
+                <li>Identify issues with your facility including ‘hidden’ issues that may not be immediately visible.</li>
+                <li>Recommend treatments to resolve these issues</li>
+                <li>Provide a complete written report and an explanation of what has been identified</li>
+              </ul>
+            </p>
           </div>
       </div>
-  </div>
-  <div class="service-details mb-30">
-      <h3>Heading 3</h3>
-      <p>Text</p>
   </div>
 </div>
