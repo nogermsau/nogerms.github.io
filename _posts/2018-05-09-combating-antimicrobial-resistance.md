@@ -2,7 +2,7 @@
 layout: post
 title: "Combating antimicrobial resistance"
 date: 2018-05-09 20:37:13 +0600
-tags: mould antimicrobial
+tags: mould antimicrobial food-processing zoono
 categories: [mould]
 author: Peter Ross
 post_image: "/assets/img/blog/mould_microscope.jpg"

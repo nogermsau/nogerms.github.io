@@ -132,7 +132,6 @@ p {
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 26px;
-	color: #7e7e7e;
 	margin-bottom: 15px;
 }
 hr {
@@ -287,7 +286,7 @@ label {
 .main-menu ul li {
 	display: inline-block;
 	position: relative;
-	margin-left: 30px;
+	margin-left: 20px;
 }
 .main-menu ul li a {
 	color: #020d26;
@@ -316,7 +315,7 @@ label {
 	left: 0;
 	background: #fff;
 	z-index: 1;
-	width: 240px;
+	width: 260px;
 	opacity: 0;
 	visibility: hidden;
 	transition: .3s;
@@ -770,13 +769,13 @@ label {
   margin-left: 10px;
   margin-right: 10px;
 }
-.features-wrap h4 {
+.features-wrap h4, .commercial h4 {
 	font-weight: 600;
 	color: #1e2331;
 	margin-bottom: 17px;
 	font-size: 18px;
 }
-.features-wrap a {
+.features-wrap a, .commercial a {
 	font-size: 14px;
 	font-weight: 600;
 	color: #84B145;
@@ -1982,4 +1981,18 @@ section.features_teasers_wrapper .feature_teaser h3 {
 }
 .about-content h5 {
   color: #84B145;
+}
+.commercial ul {
+  margin: 20px;
+}
+.commercial li {
+  list-style: disc;
+}
+.zoono li {
+  list-style: disc;
+  margin-left: 30px;
+}
+ul#bacteria {
+  margin-left: 30px;
+  margin-top: -20px;
 }
