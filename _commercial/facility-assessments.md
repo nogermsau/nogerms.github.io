@@ -13,7 +13,7 @@ description: A mould inspection is where we thoroughly investigate your home for
       <div class="col-md-12">
           <div class="service-details mb-40">
               <h3>Helping you manage risk</h3>
-              <p>As leaders in our field, No Germs is your trusted partner in helping you identify, treat and manage risk in your organisation. We have extensive experience operating in a variety of challenging business environments and have inspected and treated hundreds of facilities across Greater Sydney. We have a suite of testing and auditing tools that we can deploy to thoroughly and accurately investigate you facility.<br><br>
+              <p>As leaders in our field, No Germs is your trusted partner in helping you identify, treat and manage risk in your organisation. We have extensive experience operating in a variety of challenging business environments and have inspected and treated hundreds of facilities across Greater Sydney. We have a suite of testing and auditing tools that we can deploy to thoroughly and accurately investigate your facility.<br><br>
 By identifying areas of risk within your organisation we can design and implement solutions that specifically suit your business.
 </p>
           </div>

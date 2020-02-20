@@ -46,7 +46,17 @@ description: A mould inspection is where we thoroughly investigate your home for
       <div class="col-xl-6 col-lg-12">
           <div class="service-details mb-40">
             <h3>Chlorine Dioxide</h3>
-            <p>more text here</p>
+            <p>As a broad spectrum antimicrobial, Chlorine Dioxide is effective against viruses, mould, fungi and algae over wide temperature and ph ranges. Chlorine Dioxide delivers 'physical' kills against a these microorganisms over a short period of contact time and when properly applied, it minimises toxic residues. It also minimises corrosion to equipment such as tanks, lines as it true dissolved gas in water when compared to chlorine.
+            <br><br>
+            Common applications include:
+            <ul>
+              <li>Microbial control of flumes, processing waters, retort waters, cooling canals, warmers, and coolers</li>
+              <li>Fruit and vegetable rinses. Uncut and unpeeled, as well as cut and peeled (potable rinse required)</li>
+              <li>Food contact surface sanitiser for all processing equipment surfaces</li>
+              <li>Rendering facilities for odour control</li>
+              <li>Whole plant potable water treatment</li>
+            </ul>
+            </p>
           </div>
       </div>
       <div class="col-xl-6 col-lg-12">
