@@ -286,8 +286,7 @@ label {
 .main-menu ul li {
 	display: inline-block;
 	position: relative;
-	margin-left: 30px;
-  max-width: 90px;
+	margin-left: 20px;
 }
 .main-menu ul li a {
 	color: #020d26;
@@ -334,7 +333,6 @@ label {
 	display: block;
 	margin: 0;
 	border-bottom: 1px solid rgba(0,0,0,0.08);
-  max-width: none;
 }
 .main-menu ul li .sub-menu li:last-child{
 	border: none;
