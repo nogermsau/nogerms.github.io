@@ -2,10 +2,8 @@
 layout: page
 title: Bacteria & Microbial Elimination - No Germs
 heading: Bacteria & Microbial Elimination
-icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/commercial/early-learning.jpeg
 class: one
-description: A mould inspection is where we thoroughly investigate your home for mould. We pride ourselves on identifying the source of the problem so that once treated, it doesn't return.
+description: No Germs has continued to explore and utilise the best-in-class and most effective products available to manage and control biological, chemical, and physical hazards.
 ---
 
 <div class="commercial container pt-80 pb-60">

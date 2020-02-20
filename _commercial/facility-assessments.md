@@ -2,10 +2,8 @@
 layout: page
 title: Facility Assessments - No Germs
 heading: Facility Assessments
-icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/commercial/early-learning.jpeg
 class: one
-description: A mould inspection is where we thoroughly investigate your home for mould. We pride ourselves on identifying the source of the problem so that once treated, it doesn't return.
+description: A Facility Assessment is where we conduct a thorough investigation of your facility and provide a comprehensive written report.
 ---
 
 <div class="container pt-80 pb-60">

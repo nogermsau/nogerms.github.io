@@ -2,10 +2,8 @@
 layout: page
 title: Daycare & Early Learning Centres - No Germs
 heading: Daycare & Early Learning Centres
-icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/commercial/early-learning.jpeg
 class: one
-description: A mould inspection is where we thoroughly investigate your home for mould. We pride ourselves on identifying the source of the problem so that once treated, it doesn't return.
+description: No Germs has a proven strategy that has minimised any outbreak interruption to the daily running of daycare and early learning centres.
 ---
 
 <div class="container pt-80 pb-60">

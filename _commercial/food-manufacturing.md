@@ -2,10 +2,8 @@
 layout: page
 title: Food Manufacturing and Processing - No Germs
 heading: Food Manufacturing and Processing
-icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/commercial/early-learning.jpeg
 class: one
-description: A mould inspection is where we thoroughly investigate your home for mould. We pride ourselves on identifying the source of the problem so that once treated, it doesn't return.
+description: Building an advanced, safe & effective layer of protection for the food industry
 ---
 
 <div class="container pt-80 pb-60">
