@@ -3,7 +3,7 @@ email: "info@nogerms.com.au"
 description: >- # this means to ignore newlines until "baseurl:"
  No Germs is the leading mould removal expert in Sydney. We provide safe, non-toxic solutions for your mould, rising damp and sub floor moisture problems.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
+url: "https://nogerms.com.au" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 instagram_url: https://www.instagram.com/nogerms1
 phonenumber: 0418 408040
 
@@ -23,6 +23,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 cover_image: "/assets/img/bg/page-title.jpg"
 
@@ -57,3 +58,11 @@ feed:
   collections:
     posts:
       path: "/index.xml"
+
+# Sitemap config
+defaults:
+  -
+    scope:
+      path:            "category"
+    values:
+      sitemap:         false
