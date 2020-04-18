@@ -1996,3 +1996,11 @@ ul#bacteria {
   margin-left: 30px;
   margin-top: -20px;
 }
+.header-top-covid img {
+  align: middle;
+  width: 90px;
+}
+.header-top-covid {
+  color: white;
+  font-size: 15px;
+}
