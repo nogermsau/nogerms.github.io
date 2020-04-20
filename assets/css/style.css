@@ -200,6 +200,10 @@ label {
 }
 
 /* 2. Header */
+.header-top {
+  background: #000;
+}
+
 .header-cta {
 	overflow: hidden;
 }
