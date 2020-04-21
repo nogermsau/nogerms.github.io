@@ -1051,10 +1051,10 @@ label {
    left:  50%;
    -webkit-transform: translate(-50%, -50%); /* iOS */
    transform: translate(-50%, -50%);
-   font-weight: 800;
- 	 color: #000;
+   font-weight: 700;
+ 	 color: #333;
  	 line-height: 1;
-   font-size: 34px;
+   font-size: 30px;
    -webkit-text-stroke-width: 0.1px;
    -webkit-text-stroke-color: grey;
 }
