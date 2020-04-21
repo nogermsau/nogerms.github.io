@@ -1043,15 +1043,22 @@ label {
 }
 .portfolio-thumb img {
 	transition: .3s;
+  opacity: 0.6;
 }
-.portfolio-thumb h5 {
+.portfolio-thumb h3 {
    position: absolute;
    top: 30%;
    left:  50%;
    -webkit-transform: translate(-50%, -50%); /* iOS */
    transform: translate(-50%, -50%);
+   font-weight: 800;
+ 	 color: #000;
+ 	 line-height: 1;
+   font-size: 34px;
+   -webkit-text-stroke-width: 0.1px;
+   -webkit-text-stroke-color: grey;
 }
-.portfolio-wrapper:hover .portfolio-thumb h5 {
+.portfolio-wrapper:hover .portfolio-thumb h3 {
   display: none;
 }
 
@@ -1110,13 +1117,11 @@ label {
   width: 80%;
   display: none;
 }
-.portfolio-content h5 {
+.portfolio-content h4 {
 	color: #fff;
 	transition: .3s;
 }
-.portfolio-content h5:hover a{
-	color: #84B145;
-}
+
 .portfolio-menu button {
 	padding: 0 8px;
 	border: 0;
