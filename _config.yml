@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nogerms.com.au" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 instagram_url: https://www.instagram.com/nogerms1
-phonenumber: 0418 408040
+phonenumber: 0418 408 040
 
 logo: "/assets/img/logo/logo-nogerms.png"
 logo_2: "/assets/img/logo/logo_2.png"
