@@ -2030,3 +2030,9 @@ ul#bacteria {
   color: white;
   font-size: 15px;
 }
+.fa-check {
+  color: green;
+}
+.fa-times {
+  color: red;
+}
