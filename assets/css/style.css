@@ -782,7 +782,7 @@ label {
 .features-wrap a, .commercial a {
 	font-size: 14px;
 	font-weight: 600;
-	color: #84B145;
+	/* color: #84B145; */
 }
 .home-three-about {
 	margin-top: -150px;
