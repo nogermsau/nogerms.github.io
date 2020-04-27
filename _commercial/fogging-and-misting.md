@@ -18,7 +18,7 @@ description: No Germs has continued to explore and utilise the best-in-class and
   <div class="row">
       <div class="col-xl-6 col-lg-12">
           <div class="s-details-img mb-30">
-              <img src="{{site.baseurl}}/assets/img/commercial/Zoono.png" alt="{{page.title}}">
+              <img src="{{site.baseurl}}/assets/img/commercial/fogging-and-misting.jpg" alt="{{page.title}}">
           </div>
       </div>
       <div class="col-xl-6 col-lg-12">
