@@ -37,29 +37,59 @@ also pose much less of a threat in cases of accidental ingestion.
 
 ##### Benefits of a Non Alcohol Based Hand Sanitiser
 
-<table class="table">
+<table class="table benefits">
   <thead>
     <tr>
       <th scope="col"></th>
-      <th scope="col">No Germs Hand Sanitiser</th>
-      <th scope="col">Alcohol Based Sanitiser</th>
+      <th id="nogerms" scope="col">No Germs Hand Sanitiser</th>
+      <th id="alcohol" scope="col">Alcohol Based Sanitiser</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">Active ingredients</th>
-      <td>Benzalkonium Chloride > 0.1%</td>
-      <td>Alcohol (normaly 60% - 90%)</td>
+      <td class="text-center">Benzalkonium Chloride > 0.1%</td>
+      <td class="text-center">Alcohol (normaly 60% - 90%)</td>
     </tr>
     <tr>
       <th scope="row">Kills 99.99% of germs</th>
-      <td><i class="fas fa-check fa-2x"></i></td>
-      <td><i class="fas fa-times fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
+      <th scope="row">Kills germs within 10 seconds</th>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+    </tr>
+    <tr>
+      <th scope="row">Long lasting effect after one application</th>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-times fa-2x"></i></td>
+    </tr>
+    <tr>
+      <th scope="row">Safe/non toxic</th>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-times fa-2x"></i></td>
+    </tr>
+    <tr>
+      <th scope="row">Gentle on skin</th>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-times fa-2x"></i></td>
+    </tr>
+    <tr>
+      <th scope="row">Environmentally friendly</th>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-times fa-2x"></i></td>
+    </tr>
+    <tr>
+      <th scope="row">Resistance to superbugs/mutation</th>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-times fa-2x"></i></td>
+    </tr>
+    <tr>
+      <th scope="row">Testing/proof of efficacy</th>
+      <td class="text-center"><i class="fas fa-check fa-2x"></i></td>
+      <td class="text-center"><i class="fas fa-times fa-2x"></i></td>
     </tr>
   </tbody>
 </table>
