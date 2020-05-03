@@ -793,14 +793,15 @@ label {
 /* 5. Service */
 .services-box {
 	/* border: 1px solid #e6e6e6; */
-	transition: .3s;
+  border: 5px solid #84B145;
+  transition: .3s;
 	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
 }
 .services-box:hover {
 }
 
 .services-content {
-	padding: 20px;
+	margin: 20px;
 	padding-top: 0px;
 }
 .service-title h2::before {

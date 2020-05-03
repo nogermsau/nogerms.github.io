@@ -5,7 +5,7 @@ date: 2020-04-02 20:37:13 +0600
 tags: hand sanitiser
 categories: [zoono, childcare]
 author: Peter Ross
-post_image: "/assets/img/blog/coronavirus.png"
+post_image: "/assets/img/blog/germ_hands.jpg"
 ---
 
 Washing with warm water and soap remains the gold standard for hand hygiene and preventing the spread of infectious
