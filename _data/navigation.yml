@@ -2,6 +2,13 @@
 
 - text: Home
   url: /
+- text: Commercial
+  url: /commercial
+  submenu:
+  - text: Hand Sanitiser
+    url: /commercial/hand-sanitiser
+  - text: Fogging & Misting
+    url: /commercial/fogging-and-misting
 - text: Residential
   url: /services
   submenu:
@@ -9,17 +16,6 @@
     url: /services/mould-inspection
   - text: Mould Removal
     url: /services/mould-removal
-- text: Commercial
-  url: /commercial
-  submenu:
-  - text: Bacteria & Microbial Elimination
-    url: /commercial/bacteria-microbial-elimination
-  - text: Facility Assessments
-    url: /commercial/facility-assessments
-  - text: Daycare & Early Learning Centres
-    url: /commercial/daycare-early-learning-centres
-  - text: Food Manufacturing & Processing
-    url: /commercial/food-manufacturing-and-processing
 - text: Reviews
   url: /reviews
 - text: Articles
