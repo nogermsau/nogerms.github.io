@@ -791,12 +791,40 @@ label {
 	padding-top: 15px;
 }
 /* 5. Service */
+.top-service {
+  text-align: center;
+}
+
+.top-service .card-title h4 {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #4F8200
+}
+
+.top-service .card-text {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.top-service .card-text {
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+
+.card-text {
+  height: 160px;
+}
+
 .services-box {
-	/* border: 1px solid #e6e6e6; */
-  border: 5px solid #84B145;
+	border: 1px solid #e6e6e6;
   transition: .3s;
 	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
 }
+
+.green-border .services-box {
+  border: 5px solid #84B145;
+}
+
 .services-box:hover {
 }
 
@@ -832,7 +860,7 @@ label {
 .card-text p {
 	margin-bottom: 25px;
 }
-.services-box a.btn {
+/* .services-box a.btn {
 	padding: 11px 15px;
 	font-size: 13px;
 	transition: all .5s;
@@ -844,7 +872,7 @@ label {
 	background: #000;
 	border: 1px solid #000;
 	color: #fff;
-}
+} */
 /* services-active */
 .services-active .slick-arrow {
 	position: absolute;

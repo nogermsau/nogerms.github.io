@@ -18,7 +18,7 @@ Health acquired infections have been on the rise over the past few years and esp
 
 We have devised a **3 step hand hygiene program** to help reduce absenteeism in the workplace and protect your valued staff and customers.
 
-<div class="row">          
+<div class="row green-border">          
     <div class="col-md-4 mb-50">
         <div class="services-box">
           <div class="services-img">
@@ -31,7 +31,7 @@ We have devised a **3 step hand hygiene program** to help reduce absenteeism in 
             </div>
         </div>
     </div>
-    <div class="col-md-4 mb-50 ">
+    <div class="col-md-4 mb-50">
         <div class="services-box">
             <div class="services-img">
                 <img src="/assets/img/blog/icon_handwash.png" class="img-fluid" alt="">
