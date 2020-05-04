@@ -893,10 +893,19 @@ label {
 	right: -20px;
 	left: auto;
 }
+
+.call-to-action {
+  padding: 16px 30px;
+  background: rgba(0,0,0,0.5)
+}
+
 .call-to-action h3 {
+  color: white;
 	font-weight: 700;
 }
 .call-to-action p {
+  font-size: 16px;
+  color: white;
 	margin: 0;
 }
 .white-text h3 {
@@ -2064,4 +2073,7 @@ ul#bacteria {
 }
 .fa-times {
   color: red;
+}
+.about-area p {
+  font-size: 16px;
 }
