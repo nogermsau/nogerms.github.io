@@ -21,7 +21,7 @@ this high concentration has long raised concerns in both the media and the healt
 with alcohol-based hand sanitisers is the potential toxicity hazards upon ingestion. Most dispensing machines for hand
 sanitisers are easy to open, therefore caution must be exercised whenever children and chemicals share the same
 environment. With the high levels of alcohol concentration, consumption can lead to alcohol poisoning in children and
-adults
+adults.
 
 A common side-effect often associated with the repeated use of alcohol-based hand sanitisers is the dryness and cracking
 that it can cause on hands. This occurs because the alcohol strips away oils in your skin that retain moisture. The temporary
@@ -49,7 +49,7 @@ also pose much less of a threat in cases of accidental ingestion.
     <tr>
       <th scope="row">Active ingredients</th>
       <td class="text-center">Benzalkonium Chloride > 0.1%</td>
-      <td class="text-center">Alcohol (normaly 60% - 90%)</td>
+      <td class="text-center">Alcohol (normally 60% - 90%)</td>
     </tr>
     <tr>
       <th scope="row">Kills 99.99% of germs</th>
@@ -95,10 +95,14 @@ also pose much less of a threat in cases of accidental ingestion.
 </table>
 
 ##### What is Benzalkonium Chloride?
-Benzalkonium Chloride has been used globally as an antibacterial for over 50 years, and is primarily used as a preservative and antimicrobial agent, and secondarily used as a surfactant. It works by killing microorganisms and inhibiting their future growth, and for this reason frequently appears as an ingredient in antibacterial hand wipes, hand sanitisers and antiseptic creams. Amid the COVID-19 health pandemic, the TGA recommends disinfectants containing quaternary ammonium compounds (such as benzalkonium chloride) to be suitable for use, and has identified this active ingredient as being critical in preventing the spread of COVID-19. Read more about it [here.](https://www.tga.gov.au/appropriate-use-disinfectants-informationconsumers-health-professionals-and-healthcare-facilities)
+Benzalkonium Chloride has been used globally as an antibacterial for over 50 years, and is primarily used as a preservative and antimicrobial agent, and secondarily used as a surfactant. It works by killing microorganisms and inhibiting their future growth, and for this reason frequently appears as an ingredient in antibacterial hand wipes, hand sanitisers and antiseptic creams. Amid the COVID-19 health pandemic, the TGA recommends disinfectants containing quaternary ammonium compounds (such as benzalkonium chloride) to be suitable for use, and has identified this active ingredient as being critical in preventing the spread of COVID-19. Read more about it [here.](https://www.tga.gov.au/appropriate-use-disinfectants-information-consumers-health-professionals-and-healthcare-facilities)
 
 A study from 2019 compared a benzalkonium chloride hand sanitiser against a standard ethanol based hand sanitiser. The sanitiser was applied and the bacterial activity on the fingertips of the subject was measured at 1, 2 and 4 hours after application. The subjects with the benzalkonium chloride based hand sanitiser reliably and consistently returned low counts of bacteria than the subjects with the ethanol based hand sanitiser and these results were highly significant.
 
+<p>
+  <a href="/commercial/hand-sanitiser" class="btn">Learn more about our non alcohol hand sanitiser Range</a>
+</p>
+<br>
 ##### References
 _Bondurant, S., C.M. Duley and J.W. Harbell (2019) Demonstrating the persistant antibacterial efficacy of a hand sanitiser containing benzalkonium chloride on human skin at 1, 2, and 4 hours after application. American Journal of Infection Control, vol 47 pp 928-932_
 

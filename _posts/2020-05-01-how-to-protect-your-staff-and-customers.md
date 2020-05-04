@@ -57,21 +57,22 @@ We have devised a **3 step hand hygiene program** to help reduce absenteeism in 
     </div>
 </div>
 
-#### Where you can use our Hand Sanitisers
+#### Where you can use our Hand Sanitisers in your Workplace
 
-<ul class="list-group">
-  <li class="list-group-item">Home</li>
-  <li class="list-group-item">Schoolbags</li>
-  <li class="list-group-item">Office desks</li>
-  <li class="list-group-item">Travel</li>
-  <li class="list-group-item">Baby bags</li>
-  <li class="list-group-item">Camping</li>
-</ul>
-<br>
+<div class="commercial">
+  <ul class="row list-unstyled">
+    <li class="col-sm-6 col-md-4">On every desk</li>
+    <li class="col-sm-6 col-md-4">Entry & Exits</li>
+    <li class="col-sm-6 col-md-4">Meeting Rooms</li>
+    <li class="col-sm-6 col-md-4">Next to Elevator</li>
+    <li class="col-sm-6 col-md-4">Kitchen/Eating areas</li>
+    <li class="col-sm-6 col-md-4">Store Counter</li>
+  </ul>
+</div>
 <br>
 ##### Are you ready to put your action plan in place? Contact us today and find out how we can help keep your staff and customers healthy and protected.
 
 ##### We have a range of portable hand sanitisers, dispensers and stands to suit your needs.
 
 <br>
-<p><a href="/contact" class="btn">Enquire Now</a><p>
+<p><a href="/contact" class="btn">Enquire Now</a></p>

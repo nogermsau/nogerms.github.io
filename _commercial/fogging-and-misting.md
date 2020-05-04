@@ -31,7 +31,7 @@ description: No Germs has continued to explore and utilise the best-in-class and
             <h5>SAFE AND NON TOXIC</h5>
             <p>The technology is water-based, alcohol-free and free from dangerous chemicals. It’s safer for you, your staff and your customers, whilst being deadly to a wide range of pathogens.</p>
             <h5>COST SAVINGS</h5>
-            <p>Illness and infection can cost businesses, industries and countries billions - or even worse; people's lives. You can dramatically reduce your chances of encountering a crisis by reducing the spread of dangerous pathogens with our fogging service. No Germs has already helped many industries and businesses reduce the spread of dangerous pathogens in day care centres and aged care centres. Read about our success stories here. We can help you greatly reduce absenteeism in office settings, schools and early childcare centres</p>
+            <p>Illness and infection can cost businesses, industries and countries billions - or even worse; people's lives. You can dramatically reduce your chances of encountering a crisis by reducing the spread of dangerous pathogens with our fogging service. No Germs has already helped many industries and businesses reduce the spread of dangerous pathogens in day care centres and aged care centres. Read about our success stories <a href="/articles/caring-for-our-kids">here</a>. We can help you greatly reduce absenteeism in office settings, schools and early childcare centres.</p>
           </div>
       </div>
   </div>

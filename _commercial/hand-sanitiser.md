@@ -11,7 +11,7 @@ description: No Germs has continued to explore and utilise the best-in-class and
       <div class="col-md-12">
           <div class="service-details mb-30">
               <h3>The No Germs Hand Sanitiser range is a simple and effective way to stop contact-based infection.</h3>
-              <p><b>No Germs</b> is proud to stock alcohol free, non toxic and completely safe products, effective in killing 99.9% of germs. Our products eliminates germs immediately, but unlike traditional alcohol-based hand sanitisers which only work whilst they are wet, our antimicrobial technology provides long lasting protection all day with a single application. When you compare an alcohol based product that works for only few minutes, to one that lasts all day and offers continuity of protection, there is no comparison.</p>
+              <p><b>No Germs</b> is proud to offer alcohol free, non toxic and completely safe products, effective in killing 99.9% of germs. Our products eliminates germs immediately, but unlike traditional alcohol-based hand sanitisers which only work whilst they are wet, our antimicrobial technology provides long lasting protection all day with a single application. When you compare an alcohol based product that works for only few minutes, to one that lasts all day and offers continuity of protection, there is no comparison.</p>
           </div>
       </div>
   </div>
@@ -42,6 +42,31 @@ description: No Germs has continued to explore and utilise the best-in-class and
   <div class="row">
       <div class="col-md-12">
           <div class="service-details mb-40">
+            <p>Our hand sanitisers are ideal for the following industries due to our non alcohol based formulation:</p>
+            <div>
+              <ul class="row list-unstyled">
+                <li class="col-sm-6 col-md-4">Schools</li>
+                <li class="col-sm-6 col-md-4">Correctional facilities</li>
+                <li class="col-sm-6 col-md-4">Child care centres</li>
+                <li class="col-sm-6 col-md-4">Aged care centres</li>
+                <li class="col-sm-6 col-md-4">Gymnasiums</li>
+                <li class="col-sm-6 col-md-4">Restaurants/cafes</li>
+                <li class="col-sm-6 col-md-4">Health facilities</li>
+                <li class="col-sm-6 col-md-4">Shopping centres</li>
+                <li class="col-sm-6 col-md-4">Public transport</li>
+              </ul>
+            </div>
+            <p>Our portable hand sanitisers are perfect for:</p>
+            <div>
+              <ul class="row list-unstyled">
+                <li class="col-sm-6 col-md-4">Home</li>
+                <li class="col-sm-6 col-md-4">Schoolbags</li>
+                <li class="col-sm-6 col-md-4">Office desks</li>
+                <li class="col-sm-6 col-md-4">Travel</li>
+                <li class="col-sm-6 col-md-4">Baby bags</li>
+                <li class="col-sm-6 col-md-4">Camping</li>
+              </ul>
+            </div>
             <h4 class="green">We are now taking wholesale orders! We have a range of portable hand sanitisers, dispensers and stands to suit your needs. Click on the link below to find out how you can become a partner with No Germs.
             </h4>
             <div class="text-center">
