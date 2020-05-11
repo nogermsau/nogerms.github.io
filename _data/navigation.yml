@@ -3,12 +3,14 @@
 - text: Home
   url: /
 - text: Commercial
-  url: /commercial
+  url: /commercial/hand-sanitiser
   submenu:
   - text: Hand Sanitiser
     url: /commercial/hand-sanitiser
   - text: Fogging & Misting
     url: /commercial/fogging-and-misting
+  - text: Industry Sectors
+    url: /commercial/industry-sectors
 - text: Residential
   url: /services
   submenu:
