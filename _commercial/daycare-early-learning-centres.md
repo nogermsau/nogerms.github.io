@@ -29,8 +29,8 @@ description: No Germs has a proven strategy that has minimised any outbreak inte
       </div>
   </div>
   <div class="service-details mb-30">
-      <h3>The Zoono Difference</h3>
-      <p>Zoono is the most effective product we use widely in daycare and early learning centres. It is water based, safe, non-toxic, long-lasting (an application can last 30-40 days) and will create a germ free environment and stop cross-contamination in your centre. Zoono works by bonding to surfaces (both hard and soft fabric surfaces) to form a protective shield that continuously kills germs for extended periods of time. It can continue to protect the surface, even after regular cleaning. On hands, Zoono’s 24-Hour Hand Protectant provides 24-hour protection with one application and stays on skin even after regular hand washing.
+      <h3>The No Germs Difference</h3>
+      <p>No Germs uses advanced antimicrobial technology in daycare and early learning centres via our fogging spray service (please include link here to the fogging page).  The formulation is water based, safe, non-toxic, long-lasting (an application can last 30-40 days) and will create a germ free environment and stop cross-contamination in your centre.  It works by bonding to surfaces (both hard and soft fabric surfaces) to form a protective shield that continuously kills germs for extended periods of time. It can continue to protect the surface, even after regular cleaning.  On hands, our powerful yet gentle hand sanitisers provides up to 24-hour protection with one application, and stays on skin even after regular hand washing.  Our alcohol free formulation means it is completely safe for children as it is non toxic and free from dangerous chemicals.
       <br>
       <ul class="zoono">
         Recommended areas of use include:
@@ -44,6 +44,9 @@ description: No Germs has a proven strategy that has minimised any outbreak inte
         <li>Outdoor Play area</li>
         <li>Swimming pools</li>
       </ul>
-<br>Zoono was recently approved as the only anti-microbial product used in commercial aircraft to minimise the likelihood of cross-contamination to the travelling public.</p>
+<br>Read about our success stories <a href="/articles/caring-for-our-kids">here</a></p>
+<p>
+  <a href="/contact" class="btn">Enquire now to find out more</a>
+</p>
   </div>
 </div>

@@ -17,7 +17,7 @@ description: No Germs has continued to explore and utilise the best-in-class and
   </div>
   <div class="row">
         <div class="col-xl-6 col-lg-12">
-              <p>Our hand sanitisers contain a quaternary ammonium compound <b><i>benzalkonium chloride,</i></b> which has the following benefits:</p>
+              <p>Our hand sanitisers contain quaternary ammonium compounds, which has the following benefits:</p>
 
               <h5>LONG LASTING GERM PROTECTION</h5>
               <p>Our products kills 99.99% of germs and lasts up to 24 hours. Our product goes on wet and dries to form a long lasting, invisible, microscopic antibacterial barrier which protects your hands all day long. The sanitising action lasts a lot longer than alcohol-based products which evaporate quickly and lose their effectiveness.</p>
@@ -31,7 +31,7 @@ description: No Germs has continued to explore and utilise the best-in-class and
               <h5>NON TOXIC AND ENVIRONMENTALLY FRIENDLY</h5>
               <p>Our products do not contain harmful chemicals, and contain ingredients that are environmentally friendly and nontoxic.</p>
 
-              <p><i>Read more about benzalkonium chloride <a href="/articles/alcohol-vs-non-alcohol-hand-sanitisers">here</a>.</i></p>
+              <p><i>Read more about quaternary ammonium compounds <a href="/articles/alcohol-vs-non-alcohol-hand-sanitisers">here</a>.</i></p>
           </div>
           <div class="col-xl-6 col-lg-12">
               <div class="s-details-img mb-30">
