@@ -45,15 +45,15 @@ description: No Germs has continued to explore and utilise the best-in-class and
             <p>Our hand sanitisers are ideal for the following industries due to our non alcohol based formulation:</p>
             <div>
               <ul class="row list-unstyled">
-                <li class="col-sm-6 col-md-4">Schools</li>
+                <li class="col-sm-6 col-md-4"><i class="fas fa-school fa-lg pr-10"></i>Schools</li>
                 <li class="col-sm-6 col-md-4">Correctional facilities</li>
-                <li class="col-sm-6 col-md-4">Child care centres</li>
+                <li class="col-sm-6 col-md-4"><i class="fas fa-baby fa-lg pr-10"></i>Child care centres</li>
                 <li class="col-sm-6 col-md-4">Aged care centres</li>
-                <li class="col-sm-6 col-md-4">Gymnasiums</li>
-                <li class="col-sm-6 col-md-4">Restaurants/cafes</li>
-                <li class="col-sm-6 col-md-4">Health facilities</li>
-                <li class="col-sm-6 col-md-4">Shopping centres</li>
-                <li class="col-sm-6 col-md-4">Public transport</li>
+                <li class="col-sm-6 col-md-4"><i class="fas fa-dumbbell fa-lg pr-10"></i>Gymnasiums</li>
+                <li class="col-sm-6 col-md-4"><i class="fas fa-utensils fa-lg pr-10"></i>Restaurants/cafes</li>
+                <li class="col-sm-6 col-md-4"><i class="fas fa-book-medical fa-lg pr-10"></i>Health facilities</li>
+                <li class="col-sm-6 col-md-4"><i class="fas fa-shopping-bag fa-lg pr-10"></i>Shopping centres</li>
+                <li class="col-sm-6 col-md-4"><i class="fas fa-bus-alt fa-lg pr-10"></i>Public transport</li>
               </ul>
             </div>
             <p>Our portable hand sanitisers are perfect for:</p>
