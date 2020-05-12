@@ -8,26 +8,19 @@ author: Peter Ross
 post_image: "/assets/img/blog/germ_hands.jpg"
 ---
 
-Washing with warm water and soap remains the gold standard for hand hygiene and preventing the spread of infectious
-diseases. Hand sanitisers can also protect against disease-causing microbes, especially in situations when soap and water are
-not available.
+Washing with warm water and soap remains the gold standard for hand hygiene and preventing the spread of infectious diseases. Hand sanitisers can also protect against disease-causing microbes, especially in situations when soap and water are not available.
 
 But what are the differences between an alcohol based hand sanitiser and an alcohol free hand sanitiser?
 
 ##### Alcohol Hand Sanitisers
-Alcohol based hand sanitisers will contain one of two active ingredients; alcohol or isopropanol. One distinct property that
-they both share is that they are highly flammable. Hand sanitisers contain 60%-95% alcohol for maximum efficacy, however
-this high concentration has long raised concerns in both the media and the health care community.  
+Alcohol based hand sanitisers will contain one of two active ingredients; alcohol or isopropanol. One distinct property that they both share is that they are highly flammable. Hand sanitisers contain 60%-95% alcohol for maximum efficacy, however this high concentration has long raised concerns in both the media and the health care community.  
 
-Major concerns around the use of alcohol based sanitisers is wide and varied. A common side-effect often associated with the repeated use of alcohol-based hand sanitisers is the dryness and cracking that it can cause on hands. This occurs because the alcohol strips away oils in your skin that retain moisture. The temporary absence of these oils can lead to increased skin irritation on the hands. It can even lead to symptoms of dermatitis. There are many, many reports of it causing mild skin burn.
+Major concerns around the use of alcohol based sanitisers is wide and varied. It is associated with drying the natural oils in your hands, causing cracking skin. This then necessitates the use of moisturiser and prevents those with psoriasis and eczema from using this type of sanitiser. Activation of dermatitis is another health related issue. There are many, many reports of it causing mild skin burn.
 
-Due to the ease of access, children have been known to have ingested it causing more severe health problems. In the USA
-alone, official figures show that 77,000 children were admitted to hospital in a three year period, either taking it direct from
-the applicator or licking it from their hands.
+Due to the ease of access, children have been known to have ingested it causing more severe health problems. In the USA alone, official figures show that 77,000 children were admitted to hospital in a three year period, either taking it direct from the applicator or licking it from their hands.
 
 ##### Non-Alcohol Hand Sanitisers
-For over 10 years, **No Germs** has been a strong advocate for alcohol free based hand sanitisers, long before COVID-19. Alcohol free products contain the active ingredient _quaternary ammonium compounds_. Unlike alcohol based hand sanitisers, it is non-flammable, and low concentrations of this ingredient make it non-toxic. One of the biggest benefits of a quaternary ammonium hand sanitiser is that an alcohol-based product’s ability to kill bacteria ends once the product has dried on the skin, but quaternary ammonium-based products continue to provide protection well after the solution has dried. They also pose much less of a threat in cases of accidental ingestion and is gentle on the skin, which makes our product suitable to be used around
-children.
+For over 10 years, **No Germs** has been a strong advocate for alcohol free based hand sanitisers, long before COVID-19. Alcohol free products contain the active ingredient _quaternary ammonium compounds_. Unlike alcohol based hand sanitisers, it is non-flammable, and low concentrations of this ingredient make it non-toxic. One of the biggest benefits of a quaternary ammonium hand sanitiser is that an alcohol-based product’s ability to kill bacteria ends once the product has dried on the skin, but quaternary ammonium-based products continue to provide protection well after the solution has dried. They also pose much less of a threat in cases of accidental ingestion and is gentle on the skin, which makes our product suitable to be used around children.
 
 ##### Benefits of a Non Alcohol Based Hand Sanitiser
 

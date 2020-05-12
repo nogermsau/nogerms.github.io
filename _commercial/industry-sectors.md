@@ -14,6 +14,7 @@ description: No Germs has a wider expertise delivering antimicrobial protection 
               <p>Our expertise in delivering antimicrobial protection services in Sydney spans across a variety of different industries including:</p>
               <ul>
                 <li><a href="/commercial/daycare-early-learning-centres">Daycare and Early Learning Centres</a></li>
+                <li><a href="/commercial/food-manufacturing-and-processing">Food Manufacturing and Processing</a></li>
                 <li>Cafes and Restaurants</li>
                 <li>Hotels and Pubs</li>
               </ul>

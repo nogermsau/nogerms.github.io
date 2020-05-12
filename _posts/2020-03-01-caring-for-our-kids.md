@@ -13,11 +13,11 @@ Official figures released by NSW Health state that more than 1,600 people have b
 
 Peter has been working with Early Learning Centre owners and managers for over a decade to safely and effectively treat and prevent bacterial outbreaks, particularly Norovirus, using safe, effective products and techniques.
 
-Peter says “We at No Germs have a proven strategy that has minimised any outbreak interruption to the daily running of early learning centres. Our services in the removal of bacteria to kill hand, foot and mouth disease and norovirus are proven. We can quickly take action against bacterial infections using a water based product called that is non toxic, non allergic and food safe. We use the broadest and safest biocide agent available to ensure happy, healthy kids, carers and parents.”
+Peter says “We at No Germs have a proven strategy that has minimised any outbreak interruption to the daily running of early learning centres. Our services in the removal of bacteria to kill hand, foot and mouth disease and norovirus are proven. We can quickly take action against bacterial infections using a water based product that is non toxic, non allergic and food safe. We use the broadest and safest biocide agent available to ensure happy, healthy kids, carers and parents.”
 
 Jeffrey Yarham, Director of Happy Faces Daycare in Panania had an outbreak of Norovirus. He said "We had an outbreak of Norovirus (gastro) among the children and carers totalling around 12 cases, and we closed the centre. I immediately contacted No Germs who responded straight away and came to treat the premises. We reopened the centre the following day and had no additional cases reported (even several weeks later)."
 
-If you are a day care or early learning centre operator, please contact us to find out how we can assist you in effectively treating and preventing bacterial outbreaks.
+If you are a daycare or early learning centre operator, please contact us to find out how we can assist you in effectively treating and preventing bacterial outbreaks.
 
 <p>
   <a href="/contact" class="btn">Enquire now</a>

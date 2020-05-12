@@ -30,20 +30,14 @@ description: Building an advanced, safe & effective layer of protection for the 
           </div>
       </div>
   </div>
-  <div class="service-details mb-30">
-      <h3>The No Germs Difference</h3>
-      <p>We exclusively use chlorine dioxide in the elimination of all forms of harmful bacteria in the food industry. We know your micro switches and electric motors can't get wet and we know your ATP reading needs to be 80 or below. We work outside your production hours to eliminate disruption.
-      <br><br>
-      Over 90% of all commercial food sanitizers are classified as ‘poison’ kills, compared to No Germs products that are deemed ‘physical kills’ which simply means that there can be NO microbial resistance to our products, unlike the ‘poison kills’.  Our flagship sanitizer has a surfactant content, therefore continues to act as an ongoing sanitizer.
-      <br><br>Find out more about Zoono in the video below:
-      </p>
-  </div>
   <div class="row">
-    <div class="col-md-12 text-center">
-  <iframe width="623" height="350" src="https://www.youtube.com/embed/AJ3SD1ZslGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="col-md-12 text-center">
-      <p><i>On site at a Sydney Food Processing plant.<br>Here we're sanitising with Zoono that is a food grade applicant that can last up to 45 days.</i></p>
-    </div>
+      <div class="col-md-12">
+        <div class="service-details mb-30">
+            <h3>The No Germs Difference</h3>
+            <p>We exclusively use chlorine dioxide in the elimination of all forms of harmful bacteria in the food industry. We know your micro switches and electric motors can't get wet and we know your ATP reading needs to be 80 or below. We work outside your production hours to eliminate disruption.
+            <br><br>
+            Over 90% of all commercial food sanitisers are classified as ‘poison’ kills, compared to No Germs products that are deemed ‘physical kills’ which simply means that there can be NO microbial resistance to our products, unlike the ‘poison kills’.  Our flagship sanitiser has a surfactant content, therefore continues to act as an ongoing sanitiser and protecting your business from disruption.</p>
+        </div>
+      </div>
   </div>
 </div>
