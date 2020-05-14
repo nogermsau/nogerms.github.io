@@ -161,6 +161,9 @@ blockquote {
 .top-btn {
 	display: none;
 }
+.header-top-covid img {
+	display: none;
+}
 .menu-area {
 	padding: 20px 0;
 }

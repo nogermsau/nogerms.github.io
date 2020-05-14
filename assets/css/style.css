@@ -182,15 +182,15 @@ label {
 	font-size: 12px;
 	font-weight: 800;
 	letter-spacing: 1px;
-	line-height: 1;
+	line-height: 1.5;
 	margin-bottom: 0;
-	padding: 18px 40px;
+	padding: 15px 30px;
 	text-align: center;
 	text-transform: uppercase;
 	touch-action: manipulation;
 	transition: all 0.3s ease 0s;
 	vertical-align: middle;
-	white-space: nowrap;
+	white-space: normal;
 }
 .btn:hover{
 	color: #fff;
@@ -200,6 +200,10 @@ label {
 }
 
 /* 2. Header */
+.header-top {
+  background: #000;
+}
+
 .header-cta {
 	overflow: hidden;
 }
@@ -778,7 +782,7 @@ label {
 .features-wrap a, .commercial a {
 	font-size: 14px;
 	font-weight: 600;
-	color: #84B145;
+	/* color: #84B145; */
 }
 .home-three-about {
 	margin-top: -150px;
@@ -787,16 +791,45 @@ label {
 	padding-top: 15px;
 }
 /* 5. Service */
+.top-service {
+  text-align: center;
+}
+
+.top-service .card-title h4 {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #4F8200
+}
+
+.top-service .card-text {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.top-service .card-text {
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+
+.card-text {
+  height: 160px;
+}
+
 .services-box {
-	/* border: 1px solid #e6e6e6; */
-	transition: .3s;
+	border: 1px solid #e6e6e6;
+  transition: .3s;
 	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
 }
+
+.green-border .services-box {
+  border: 5px solid #84B145;
+}
+
 .services-box:hover {
 }
 
 .services-content {
-	padding: 20px;
+	margin: 20px;
 	padding-top: 0px;
 }
 .service-title h2::before {
@@ -827,7 +860,7 @@ label {
 .card-text p {
 	margin-bottom: 25px;
 }
-.services-box a.btn {
+/* .services-box a.btn {
 	padding: 11px 15px;
 	font-size: 13px;
 	transition: all .5s;
@@ -839,7 +872,7 @@ label {
 	background: #000;
 	border: 1px solid #000;
 	color: #fff;
-}
+} */
 /* services-active */
 .services-active .slick-arrow {
 	position: absolute;
@@ -860,12 +893,28 @@ label {
 	right: -20px;
 	left: auto;
 }
+
+.call-to-action {
+  padding: 16px 30px;
+}
+
 .call-to-action h3 {
 	font-weight: 700;
 }
 .call-to-action p {
+  font-size: 16px;
 	margin: 0;
 }
+.call-to-action.homepage {
+  background: rgba(0,0,0,0.5)
+}
+.call-to-action.homepage h3 {
+  color: white;
+}
+.call-to-action.homepage p {
+  color: white;
+}
+
 .white-text h3 {
 	color: #fff;
 	font-size: 34px;
@@ -885,7 +934,7 @@ label {
 .cta-area {
 	background-position: center top;
 	background-size: cover;
-	padding: 100px 0;
+	padding: 70px 0;
 }
 .service-box.service-3 {
 	padding: 0;
@@ -1026,8 +1075,12 @@ label {
 .portfolio-wrapper:hover .portfolio-thumb::before,.portfolio-wrapper:hover .portfolio-thumb::after,.portfolio-wrapper:hover .view i{
 	opacity: .8;
 }
-.portfolio-wrapper:hover .portfolio-content{
+.portfolio-wrapper:hover .portfolio-content {
 	transform: translateY(0);
+  color: #fff;
+  display: block;
+  display: initial;
+  transition: .3s
 }
 .portfolio-thumb {
 	position: relative;
@@ -1035,10 +1088,25 @@ label {
 }
 .portfolio-thumb img {
 	transition: .3s;
+  opacity: 0.6;
 }
- .portfolio-thumb img {
+.portfolio-thumb h3 {
+   position: absolute;
+   top: 30%;
+   left:  50%;
+   -webkit-transform: translate(-50%, -50%); /* iOS */
+   transform: translate(-50%, -50%);
+   font-weight: 700;
+ 	 color: #333;
+ 	 line-height: 1;
+   font-size: 30px;
+   -webkit-text-stroke-width: 0.1px;
+   -webkit-text-stroke-color: grey;
+}
+.portfolio-wrapper:hover .portfolio-thumb h3 {
+  display: none;
+}
 
-}
 .portfolio-wrapper:hover .portfolio-thumb img {
 	transform: rotate(3deg) scale(1.1);
 }
@@ -1050,7 +1118,7 @@ label {
 	height: 100%;
 	width: 100%;
 	background: #000;
-	opacity: 0;
+	opacity: 0.1;
 	transition: .3s;
 	z-index:9
 }
@@ -1081,21 +1149,24 @@ label {
 }
 .portfolio-content {
 	position: absolute;
-	bottom: 30px;
-	left: 30px;
+	bottom: 30%;
+	left: 10%;
 	transition: .3s ease;
 	z-index: 9;
-	color: #fff;
+	color: transparent;
 	transform: translateY(160%);
-	z-index:999
+	z-index:999;
+  text-transform: uppercase;
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  display: none;
 }
-.portfolio-content h5 {
+.portfolio-content h4 {
 	color: #fff;
 	transition: .3s;
 }
-.portfolio-content h5:hover a{
-	color: #84B145;
-}
+
 .portfolio-menu button {
 	padding: 0 8px;
 	border: 0;
@@ -1995,4 +2066,21 @@ section.features_teasers_wrapper .feature_teaser h3 {
 ul#bacteria {
   margin-left: 30px;
   margin-top: -20px;
+}
+.header-top-covid img {
+  align: middle;
+  width: 90px;
+}
+.header-top-covid {
+  color: white;
+  font-size: 15px;
+}
+.fa-check {
+  color: green;
+}
+.fa-times {
+  color: red;
+}
+.about-area p {
+  font-size: 16px;
 }
