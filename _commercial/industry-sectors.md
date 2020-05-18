@@ -3,7 +3,7 @@ layout: page
 title: Industry Sectors - No Germs
 heading: Industry Sectors
 class: one
-description: No Germs has a wider expertise delivering antimicrobial protection services across a variety of industries
+description: No Germs has wide expertise delivering antimicrobial protection services across a variety of industries across Sydney
 ---
 
 <div class="container pt-60 pb-30">

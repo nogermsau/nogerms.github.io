@@ -3,7 +3,7 @@ layout: page
 title: Fogging & Misting - No Germs
 heading: INFECTION CONTROL AND PREVENTION OF OUTBREAKS WITH OUR FOGGING SERVICE
 class: one
-description: No Germs has continued to explore and utilise the best-in-class and most effective products available to manage and control biological, chemical, and physical hazards.
+description: No Germs Fogging & Misting provides long lasting 30 day protection for your home or office.
 ---
 
 <div class="commercial container pt-80 pb-60">

@@ -3,7 +3,7 @@ layout: page
 title: Hand Sanitiser - No Germs
 heading: DAILY GERM DEFENCE WITH OUR ANTIMICROBIAL TECHNOLOGY
 class: one
-description: No Germs has continued to explore and utilise the best-in-class and most effective products available to manage and control biological, chemical, and physical hazards.
+description: No Germs Hand Sanitiser is proven to be safe, effective and provide long lasting protection with a single application.
 ---
 
 <div class="commercial container pt-80 pb-60">
