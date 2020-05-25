@@ -3,7 +3,7 @@
 - text: Home
   url: /
 - text: Commercial
-  url: /commercial/hand-sanitiser
+  url: /commercial
   submenu:
   - text: Hand Sanitiser
     url: /commercial/hand-sanitiser
