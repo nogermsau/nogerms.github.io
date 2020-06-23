@@ -2084,3 +2084,10 @@ ul#bacteria {
 .about-area p {
   font-size: 16px;
 }
+.green-bg {
+  background: #84B145;
+}
+.aust-made h3 {
+  color: white;
+  text-align: center;
+}
