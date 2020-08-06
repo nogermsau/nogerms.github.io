@@ -86,8 +86,6 @@ Quaternary ammonium compounds (QACs) are among the most commonly used disinfecta
 
 QACs have been shown to have antimicrobial activity, especially those containing long alkyl chains such as benzalkonium chloride. Benzalkonium chloride has has been used globally as an antibacterial for over 50 years, and is primarily used as a preservative and antimicrobial agent, and secondarily used as a surfactant. It works by killing microorganisms and inhibiting their future growth, and for this reason frequently appears as an ingredient in antibacterial hand wipes, hand sanitisers and antiseptic creams.
 
-Amid the COVID-19 health pandemic, the TGA recommends disinfectants containing quaternary ammonium compounds (such as benzalkonium chloride) to be suitable for use, and has identified this active ingredient as being critical in preventing the spread of COVID-19. Read more about it [here.](https://www.tga.gov.au/appropriate-use-disinfectants-information-consumers-health-professionals-and-healthcare-facilities)
-
 A study from 2019 compared a benzalkonium chloride hand sanitiser against a standard ethanol based hand sanitiser. The sanitiser was applied and the bacterial activity on the fingertips of the subject was measured at 1, 2 and 4 hours after application. The subjects with the benzalkonium chloride based hand sanitiser reliably and consistently returned low counts of bacteria than the subjects with the ethanol based hand sanitiser and these results were highly significant.
 
 <p>

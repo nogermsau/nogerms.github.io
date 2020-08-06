@@ -3,7 +3,7 @@ layout: page
 title: Fogging & Misting - No Germs
 heading: INFECTION CONTROL AND PREVENTION OF OUTBREAKS WITH OUR FOGGING SERVICE
 class: one
-description: No Germs Fogging & Misting provides long lasting 30 day protection for your home or office.
+description: No Germs Fogging & Misting provides long lasting up to 30 day protection for your home or office.
 ---
 
 <div class="commercial container pt-80 pb-60">
@@ -11,7 +11,7 @@ description: No Germs Fogging & Misting provides long lasting 30 day protection 
       <div class="col-md-12">
           <div class="service-details mb-30">
               <h3>Revolutionise the way germs are treated with our No Germs Fogging Service</h3>
-              <p><b>Our mobile Fogging Service</b> is unique in Australia and is ideal for your home or office. Our innovative surface spray offers 30 day protection and is safe around children, pets, food and plants.</p>
+              <p><b>Our mobile Fogging Service</b> is unique in Australia and is ideal for your home or office. Our innovative surface spray offers up to 30 day protection and is safe around children, pets, food and plants.</p>
           </div>
       </div>
   </div>
@@ -25,7 +25,7 @@ description: No Germs Fogging & Misting provides long lasting 30 day protection 
           <div class="service-details mb-40">
             <p>Our unique product benefits include:</p>
             <h5>LONG LASTING ADVANCED ANTIMICROBIAL TECHNOLOGY</h5>
-            <p>Once applied, our product stays active for up to 30 days protection on surfaces, providing confidence that the environment is microbiologically safe.</p>
+            <p>Once applied, our product stays active for up to 30 days  on surfaces, providing confidence that the environment is microbiologically safe.</p>
             <h5>KILLS 99.99% OF GERMS, VIRUSES AND BACTERIA</h5>
             <p>Our services provides cost effective broad-spectrum antimicrobial protection which is effective against a wide range of disease causing bacteria. Our surface spray significantly reduces the spread of harmful bacteria, viruses, fungi, mould and yeast, lasting up to 30 days on treated surfaces.</p>
             <h5>SAFE AND NON TOXIC</h5>
@@ -96,7 +96,7 @@ description: No Germs Fogging & Misting provides long lasting 30 day protection 
   <div class="row">
       <div class="col-md-12">
             <div class="service-details">
-              <p>Treatment performs best on recently cleaned surfaces and will provide ongoing protection against bacteria, viruses, mould and mildew for 30 days. Following treatment, surfaces can be wiped down with warm soapy water to remove any debris without affecting the efficacy of the hygiene treatment. Following the fogging, the technician will answer any questions and provide advice on how to maintain a germ free environment.</p>
+              <p>Treatment performs best on recently cleaned surfaces and will provide ongoing protection against bacteria, viruses, mould and mildew for up to 30 days. Following treatment, surfaces can be wiped down with warm soapy water to remove any debris without affecting the efficacy of the hygiene treatment. Following the fogging, the technician will answer any questions and provide advice on how to maintain a germ free environment.</p>
             </div>
             <div class="text-center">
               <p><a href="/contact" class="btn">Book a Quote Now</a></p>
