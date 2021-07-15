@@ -1,7 +1,5 @@
 #Please use the main menu items under the "text"
 
-- text: Home
-  url: /
 - text: Commercial
   url: /commercial
   submenu:
