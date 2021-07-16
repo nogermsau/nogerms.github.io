@@ -5,8 +5,8 @@
   submenu:
   - text: Hand Sanitiser
     url: /commercial/hand-sanitiser
-  - text: Fogging & Misting
-    url: /commercial/fogging-and-misting
+  - text: Nanotise Fogging
+    url: /commercial/nanotise-fogging
   - text: Industry Sectors
     url: /commercial/industry-sectors
 - text: Residential
