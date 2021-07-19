@@ -2084,3 +2084,15 @@ ul#bacteria {
 .about-area p {
   font-size: 16px;
 }
+
+.feature-text p {
+
+}
+
+.promo {
+  background-color: #E3EFD6;
+  padding-top: 10px;
+  border-radius: 25px;
+  padding-left: 30px;
+  margin-bottom: 30px;
+}
