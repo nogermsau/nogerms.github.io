@@ -2085,14 +2085,21 @@ ul#bacteria {
   font-size: 16px;
 }
 
-.feature-text p {
-
-}
-
 .promo {
   background-color: #E3EFD6;
   padding-top: 10px;
   border-radius: 25px;
   padding-left: 30px;
   margin-bottom: 30px;
+}
+.bg-lightgreen {
+  background-color: #B5E395;
+  border: 3px solid white;
+}
+
+#featurebox {
+  padding-top: 10px;
+}
+#featurebox p {
+  line-height: 20px;
 }

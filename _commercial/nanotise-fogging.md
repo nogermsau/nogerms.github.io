@@ -33,46 +33,98 @@ description: No Germs Nanotise Fogging provides long lasting up to 30 day protec
         <p>Our innovative Nanotise™ antimicrobial fogging treatment uses nanotechnology to offer next level protection against 99.9% of germs, viruses (including COVID-19) and bacteria for up to 30 days after application.  With applications done after hours, there’s no disruption to your day-to-day operations.</p>
       </div>
     </div>
-     <div class="col-xl-6 col-lg-6 col-sm-12">
-        <div class="row">
-          <!--<div class="col-sm-6">
-            <div class="row">
-                  <div class="col-4 col-sm-4 col-xs-4">
-                      <div class="feature-img">
-                        <img src="/assets/img/icons/calendar.png" class="img-fluid" alt="">
-                      </div>
-                  </div>
-                  <div class="col-8 col-sm-8 col-xs-8">
-                    <div class="feature-text">
-                      <p>ANTIMICROBIAL TREATMENT THAT LASTS 30 DAYS</p>
-                    </div>
-                  </div>
-            </div>
-          </div>              
-          <div class="col-sm-6">
-            <div class="row">
-                <div class="col-4 col-sm-4 col-xs-4">
-                    <div class="feature-img">
-                      <img src="/assets/img/icons/calendar.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-                <div class="col-8 col-sm-8 col-xs-8">
-                  <div class="feature-text">
-                    <p>ANTIMICROBIAL TREATMENT THAT LASTS 30 DAYS</p>
-                  </div>
-                </div>
-            </div>  
-          </div> -->
-      </div>
+    <div class="col-xl-6 col-lg-6 col-sm-12">
       <div class="row">
+        <div class="col-6 col-sm-6 bg-lightgreen">
+          <div class="row">
+            <div id="featurebox" class="col-4">
+              <img src="/assets/img/icons/calendar.png" class="img-fluid" alt="">
+            </div>
+            <div id="featurebox" class="col-8">
+              ANTIMICROBIAL TREATMENT THAT LASTS 30 DAYS
+            </div>
+          </div> <!-- row -->
+        </div>
+        <div class="col-6 col-sm-6 bg-lightgreen">
+          <div class="row">
+            <div id="featurebox" class="col-4 col-sm-4 col-xs-4">
+              <img src="/assets/img/icons/germs.png" class="img-fluid" alt="">
+            </div>
+            <div id="featurebox" class="col-8 col-sm-8 col-xs-8">
+              KILLS 99.9% OF GERMS, VIRUSES AND BACTERIA
+            </div>
+          </div> <!-- row -->
+        </div>
+        <div class="col-6 col-sm-6 bg-lightgreen">
+          <div class="row">
+            <div id="featurebox" class="col-4 col-sm-4 col-xs-4">
+              <img src="/assets/img/icons/bottle.png" class="img-fluid" alt="">
+            </div>
+            <div id="featurebox" class="col-8 col-sm-8 col-xs-8">
+              ALCOHOL FREE FORMULATION
+            </div>
+          </div> <!-- row -->
+        </div>
+        <div class="col-6 col-sm-6 bg-lightgreen">
+          <div class="row">
+            <div id="featurebox" class="col-4 col-sm-4 col-xs-4">
+              <img src="/assets/img/icons/family.png" class="img-fluid" alt="">
+            </div>
+            <div id="featurebox" class="col-8 col-sm-8 col-xs-8">
+              SAFE AROUND CHILDREN, PETS & PLANTS
+            </div>
+          </div> <!-- row -->
+        </div>
+        <div class="col-6 col-sm-6 bg-lightgreen">
+          <div class="row">
+            <div id="featurebox" class="col-4 col-sm-4 col-xs-4">
+                <img src="/assets/img/icons/leaf.png" class="img-fluid" alt="">
+            </div>
+            <div id="featurebox" class="col-8 col-sm-8 col-xs-8">
+                NON TOXIC & ECO FRIENDLY
+            </div>
+          </div> <!-- row -->
+        </div>
+        <div class="col-6 col-sm-6 bg-lightgreen">
+          <div class="row">
+            <div id="featurebox" class="col-4 col-sm-4 col-xs-4">
+                <img src="/assets/img/icons/lounge.png" class="img-fluid" alt="">
+            </div>
+            <div id="featurebox" class="col-8 col-sm-8 col-xs-8">
+                DISINFECTS & CLEANS ALL HARD & SOFT SURFACES
+            </div>
+          </div> <!-- row -->
+        </div>
+        <div class="col-6 col-sm-6 bg-lightgreen">
+          <div class="row">
+            <div id="featurebox" class="col-4 col-sm-4 col-xs-4">
+              <img src="/assets/img/icons/dropper.png" class="img-fluid" alt="">
+            </div>
+            <div id="featurebox" class="col-8 col-sm-8 col-xs-8">
+              3RD PARTY TESTED WITH PROVEN RESULTS
+            </div>
+          </div> <!-- row -->
+        </div>
+        <div class="col-6 col-sm-6 bg-lightgreen">
+          <div class="row">
+            <div id="featurebox" class="col-4 col-sm-4 col-xs-4">
+              <img src="/assets/img/icons/hand.png" class="img-fluid" alt="">
+            </div>
+            <div id="featurebox" class="col-8 col-sm-8 col-xs-8">
+              PROTECTS THE COMMUNITY FROM INFECTION
+            </div>
+          </div> <!-- row -->
+        </div>
+      </div><!-- row -->
+      <div class="row pt-20">
         <div class="col-12 promo">
-        <p>We offer cost-effective packages for  monthly Nanotise™ fogging treatments. Prevention is better than cure, so call  Alex now on <a href="#" class="">1800 408 040</a> or email <a href="mailto:sales@nogerms.com.au?subject=Quote Request" class="">sales@nogerms.com.au</a> to set an appointment for your free quote.</p>
+          <p>We offer cost-effective packages for  monthly Nanotise™ fogging treatments. Prevention is better than cure, so call  Alex now on <a href="#" class="">1800 408 040</a> or email <a href="mailto:sales@nogerms.com.au?subject=Quote Request" class="">sales@nogerms.com.au</a> to set an appointment for your free quote.</p>
         </div>
       </div>
       <div class="row">
         <div class="col-12">
-        <a href="/assets/pdf/NoGermsBrochure_12Jun21.pdf" class="btn">Download Brochure</a>
+          <a href="/assets/pdf/NoGermsBrochure_12Jun21.pdf" class="btn">Download Brochure</a>
+        </div>
       </div>
     </div>
   </div>
-</div>
