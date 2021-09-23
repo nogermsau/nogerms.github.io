@@ -26,7 +26,7 @@ We have devised a **3 step hand hygiene program** to help reduce absenteeism in 
           </div>
             <div class="services-content">
                 <div class="card-text">
-                    <p>Book our <a href="/commercial/fogging-and-misting">Fogging Spray</a> service to eliminate germs and to protect your working space for up to 30 days.</p>
+                    <p>Book our <a href="/commercial/fogging-and-misting">Fogging Spray</a> service to eliminate germs and to protect your working space for up to 28 days.</p>
                 </div>
             </div>
         </div>
@@ -50,7 +50,7 @@ We have devised a **3 step hand hygiene program** to help reduce absenteeism in 
             </div>
             <div class="services-content">
                 <div class="card-text">
-                    <p>Repeat your <a href="/commercial/fogging-and-misting">Fogging Spray</a> service every 30 days to ensure continuity of protection and prevention of outbreaks</p>
+                    <p>Repeat your <a href="/commercial/fogging-and-misting">Fogging Spray</a> service every 28 days to ensure continuity of protection and prevention of outbreaks</p>
                 </div>
             </div>
         </div>
