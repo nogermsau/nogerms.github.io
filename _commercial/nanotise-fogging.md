@@ -123,7 +123,7 @@ description: No Germs Nanotise Fogging provides long lasting up to 28 day protec
       </div>
       <div class="row">
         <div class="col-12">
-          <a href="/assets/pdf/NoGermsBrochure_12Jun21.pdf" class="btn">Download Brochure</a>
+          <a href="/assets/pdf/NoGermsBrochure_Sep21.pdf" class="btn">Download Brochure</a>
         </div>
       </div>
     </div>
